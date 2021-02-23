@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Visualizacion
+comment0.text=\r\n\ Esta\ clase\ contiene\ todos\ las\ graficos\ que\ se\ pueden\ hacer\ con\ los\ datos\ del\ arraylist\ \ de\ marco\ de\ datos\r\n\ esta\ clase\ incluye\ las\ librerias\ de\ JFreeChart\r\n\ @author\ Alejandro\ Fern\u00E1ndez\ Restrepo\r\n\ @version\ mayo\ de\ 2019\r\n
+comment1.params=listaConDatosFinal\ opcion
+comment1.target=void\ diagramaDeLineas(java.util.List,\ int)
+comment1.text=\r\n\ Este\ metodo\ crea\ un\ diagrama\ de\ lineas\ con\ al\ fecha\ y\ el\ dato\ del\ archivo.\r\n
+comment2.params=listaConDatosFinal\ opcion
+comment2.target=void\ diagramaDePuntos(java.util.List,\ int)
+comment2.text=\r\n\ Este\ metodo\ crea\ un\ diagrama\ de\ puntos\ con\ al\ fecha\ y\ el\ dato\ del\ archivo.\r\n
+comment3.params=listaConDatosFinal\ opcionOperacion\ opcionDato
+comment3.target=void\ llamadoAmetodos(java.util.List,\ int,\ int)
+comment3.text=\r\n\ Este\ metodo\ llama\ a\ la\ operacion\ a\ ejecutarce\ segun\ la\ opcion\ que\ entre\ el\ ususario.\r\n
+numComments=4

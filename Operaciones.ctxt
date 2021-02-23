@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Operaciones
+comment0.text=\r\n\ Esta\ clase\ contiene\ todas\ las\ operaciones\ que\ se\ pueden\ hacer\ con\ los\ datos\ del\ arraylist\ \ de\ marco\ de\ datos,\ promedio,\ minimo\ ,\ maximo\ y\ moda\r\n\ \r\n\ @author\ Alejandro\ Fern\u00E1ndez\ Restrepo\r\n\ @version\ mayo\ de\ 2019\r\n
+comment1.params=listaConDatosFinal\ opcion
+comment1.target=double\ promedio(java.util.List,\ int)
+comment1.text=\r\n\ Este\ metodo\ sacara\ el\ promedio\ de\ los\ datos\ segun\ el\ tipo\ de\ dato\ a\ evaluar\ ,\ el\ cual\ elige\ el\ usuario.\r\n
+comment2.params=listaConDatosFinal\ opcion
+comment2.target=double\ minimo(java.util.List,\ int)
+comment2.text=\r\n\ Este\ metodo\ sacar\ los\ datos\ minimos\ de\ los\ datos\ segun\ el\ tipo\ de\ dato\ a\ evaluar\ ,\ el\ cual\ elige\ el\ usuario.\r\n
+comment3.params=listaConDatosFinal\ opcion
+comment3.target=double\ maximo(java.util.List,\ int)
+comment3.text=\r\n\ Este\ metodo\ sacar\ los\ datos\ maximos\ de\ los\ datos\ segun\ el\ tipo\ de\ dato\ a\ evaluar\ ,\ el\ cual\ elige\ el\ usuario.\r\n
+comment4.params=listaConDatosFinal\ opcion
+comment4.target=double\ moda(java.util.List,\ int)
+comment4.text=\r\n\ Este\ metodo\ saca\ la\ moda\ de\ los\ datos\ segun\ el\ tipo\ de\ dato\ a\ evaluar\ ,\ el\ cual\ elige\ el\ usuario.\r\n
+comment5.params=listaConDatosFinal\ opcionOperacion\ opcionDato
+comment5.target=void\ llamadoAmetodos(java.util.List,\ int,\ int)
+comment5.text=\r\n\ Este\ metodo\ llama\ a\ la\ operacion\ a\ ejecutarce\ segun\ la\ opcion\ que\ entre\ el\ ususario.\r\n
+numComments=6
